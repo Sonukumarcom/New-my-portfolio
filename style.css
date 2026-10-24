@@ -1,0 +1,23 @@
+    /* Custom Scrollbar & Cyber Gradients */
+    ::-webkit-scrollbar {
+      width: 8px;
+    }
+    ::-webkit-scrollbar-track {
+      background: #0a0e17;
+    }
+    ::-webkit-scrollbar-thumb {
+      background: #232936;
+      border-radius: 4px;
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: #00f2fe;
+    }
+    .neon-text-cyan {
+      text-shadow: 0 0 12px rgba(0, 242, 254, 0.6);
+    }
+    .neon-border-cyan {
+      box-shadow: 0 0 15px rgba(0, 242, 254, 0.25);
+    }
+    .code-terminal-glow {
+      box-shadow: 0 10px 40px -10px rgba(0, 242, 254, 0.15);
+    }
